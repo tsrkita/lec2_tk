@@ -8,6 +8,12 @@ Thank you *Thank you* Thank you
 [Google先生](https://www.google.co.jp/)
 
 
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
+
+
 ## 小見出し2
 よろしくお願いいたいます。
 > お世話になります。xxxです。
@@ -44,5 +50,4 @@ http://qiita.com/tbpgr/items/989c6badefff69377da7
 
         http://qiita.com/tbpgr/items/989c6badefff69377da7  
 http://qiita.com/tbpgr/items/989c6badefff69377da7
-        
 

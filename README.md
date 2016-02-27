@@ -19,6 +19,8 @@
       end
     end
 
+インストールコマンドは `gem install hoge` です
+
 - 了解
 - 簡単
   - OK

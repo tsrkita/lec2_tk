@@ -3,6 +3,10 @@
 ## 小見出し1
 今日はありがとうございます。
 Thank you *Thank you* Thank you
+***
+---
+[Google先生](https://www.google.co.jp/)
+
 
 ## 小見出し2
 よろしくお願いいたいます。

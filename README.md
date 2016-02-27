@@ -51,3 +51,7 @@ http://qiita.com/tbpgr/items/989c6badefff69377da7
         http://qiita.com/tbpgr/items/989c6badefff69377da7  
 http://qiita.com/tbpgr/items/989c6badefff69377da7
 
+|Kita1|Mari2|Maiko3|
+|:--:|:--:|:--:|
+|3|5|20|
+|a|b|c|
